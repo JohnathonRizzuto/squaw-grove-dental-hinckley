@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://squaw-grove-dental-hinckley.vercel.app/sitemap.xml

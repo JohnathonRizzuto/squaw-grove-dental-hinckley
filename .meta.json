@@ -1,0 +1,31 @@
+{
+  "name": "Squaw Grove Dental",
+  "town": "Hinckley IL",
+  "type": "dentist",
+  "address": "165 W Lincoln Ave, Hinckley, IL 60520",
+  "phone": "8152863303",
+  "checklistComplete": 9,
+  "ownerEmail": "kbarnhart2@frontier.com",
+  "ownerEmailSource": "chamber",
+  "ownerEmailType": "personal",
+  "ownerEmailNotes": "Listed for Dr. Keith Barnhart on the Hinckley Business Association member directory.",
+  "outreachEligible": true,
+  "bookingUrl": "",
+  "designNotes": "Clean clinical, NOT beige: cool white #F4FAFB bg, deep navy #123A56, fresh teal #1FA8A0 accent, sky #5AB6D6. Poppins + Work Sans. Layered Canva hero (neutral prompt - business name tripped Canva filter, retried 3x) over Unsplash dental-office fallback + navy gradient. Schema Dentist. New-patient special placeholder price. Logo: text wordmark (FB Graph egress blocked).",
+  "aiAssets": {
+    "logo": { "source": "text_wordmark", "url": null },
+    "hero": {
+      "generated": true,
+      "source": "canva",
+      "designId": "DAHLfUDv_rs",
+      "viewUrl": "https://www.canva.com/d/hDHZu8cYLwoLeNH",
+      "exportUrl": "https://export-download.canva.com/Dv_rs/DAHLfUDv_rs/-1/0/0001-5342900272781929950.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUH5AO7UJ26%2F20260602%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260602T063657Z&X-Amz-Expires=87011&X-Amz-Signature=b6fd166e2d88a9ff028c9eaed4e60ab3ae08b8f365fd85f5ff606e0728c2c815&X-Amz-SignedHeaders=host%3Bx-amz-expected-bucket-owner&response-expires=Wed%2C%2003%20Jun%202026%2006%3A47%3A08%20GMT",
+      "bakeTarget": "hero.jpg",
+      "note": "First 2 generate-design attempts failed (business name 'Squaw' likely tripped Canva content filter); succeeded on 3rd attempt with a neutral dental prompt."
+    },
+    "galleryEdited": false,
+    "galleryNote": "No photo gallery section (clinical layout uses feature band instead); hero is bespoke Canva. Adobe Stock pipeline skipped - sandbox egress blocked."
+  },
+  "researchStartedAt": "2026-06-03T05:24:30Z",
+  "stage1FinishedAt": "2026-06-03T05:27:28Z"
+}
